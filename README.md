@@ -1,5 +1,4 @@
 <x current date is December 04, 2025.
-
 ### Repository Analysis: https://github.com/aqarion/Aqarionz-tronsims/tree/main
 
 #### Overview
